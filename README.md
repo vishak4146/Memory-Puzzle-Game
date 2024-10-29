@@ -16,7 +16,3 @@ A fun memory puzzle game built with Python and Pygame! This project demonstrates
 ## Technologies Used
 - **Python**: Core programming language
 - **Pygame**: Library used for creating the game's graphics, events, and animations
-
-## Setup and Installation
-1. **Clone the repository**:
-   cd memory-puzzle-game
